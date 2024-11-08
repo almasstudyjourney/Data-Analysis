@@ -47,6 +47,13 @@ This is a collection of blogs that may help you to understand and discover more 
 * [Data Analysis Tools](https://www.datacamp.com/blog/the-9-best-data-analytics-tools-for-data-analysts-in-2023)
 
 * [Data Analysis Techniques and Methods](https://www.polymersearch.com/data-analysis-guide/15-data-analysis-techniques-methods)
+
+### Contact
+---
+Thank you for exploring!  I hope my work serves as a valuable resource for your own projects and coding journey.
+If you have any questions please don't hesitate to contact me.
+**Email:** aa.elmahraoui@gmail.com
+
     
 
 
